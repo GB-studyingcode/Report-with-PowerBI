@@ -2,7 +2,7 @@
 
 Power BI portfolio project analyzing sales performance, profitability, customer segments, product categories, returns, discounts, and delivery lead time using a retail supply chain dataset.
 
-![Dashboard Overview](assets/sale_dashboard_overview.png.png)
+![Dashboard Overview](assets/sale_dashboard_overview.png)
 
 ## Business Questions
 - Which categories, regions, and customer segments generate the most sales and profit?
