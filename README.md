@@ -34,5 +34,5 @@ Power BI portfolio project analyzing sales performance, profitability, customer 
 ## Tools
 Power BI, Power Query, DAX, Excel, Data Modeling, Data Visualization, Business Intelligence
 
-## CV Description
+## Description
 Built a Power BI dashboard to analyze 9,994+ retail order-line transactions across sales, profit, returns, discounts, customer segments, regional performance, and shipping lead time. Identified category-level profitability drivers, discount-related margin risks, regional performance gaps, and logistics SLA opportunities to support inventory planning, pricing control, and sales strategy.
