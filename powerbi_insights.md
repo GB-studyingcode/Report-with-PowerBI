@@ -27,7 +27,7 @@
 Use this as a **Business Intelligence / Power BI Analytics** portfolio project focused on sales performance, profitability, supply chain service levels, customer segmentation, and operational decision support.
 
 ## Screenshot
-![Dashboard Overview](sale_dashboard_overview.png)
+![Dashboard Overview](assets/sale_dashboard_overview.png)
 
 ## Bullet Points
 - Built an interactive Power BI dashboard analyzing sales, profit, product mix, customer segments, regional performance, returns, discounts, and shipping lead time from 9,994+ order-line transactions.
